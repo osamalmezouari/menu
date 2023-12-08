@@ -1,0 +1,20 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+*{
+  box-sizing: border-box;
+}
+button {
+  background-color: #f59e0b;
+  color: white;
+  text-transform: capitalize;
+
+}
+button:hover {
+  background-color: rgba(245, 158, 11, 0.64);
+}
+body {
+  background-color: aliceblue;
+}
+
