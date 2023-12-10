@@ -46,6 +46,13 @@ This will launch the application on http://localhost:3000
 
 #### Shakes : Filters and displays only shake plates.
 
+To start the development server, run:
+
+```
+npm run dev
+```
+Visit http://localhost:3000 in your browser to see the application.
+
 ## Technologies Used
 - React
 - Vite
